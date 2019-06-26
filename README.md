@@ -4,6 +4,7 @@
 
 - Speaker: [Susan Holmes](http://statweb.stanford.edu/~susan/susan_person.html).
 Susan Holmes told us about heterogeneous data analysis with R, applied to health and microbiome.
+- The presentation can also be found directly at the following [Link](https://www.dropbox.com/s/e3xhf4ha17i4q35/UseR-Phyloseq-RLadies.pdf?dl=0).
 
 ## Details of the event:
 - Date: 17 June 2019
